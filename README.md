@@ -7,7 +7,6 @@ Missão: Oferecer cafés especiais e produtos de alta qualidade, proporcionando 
 Valores: Qualidade, hospitalidade, sustentabilidade, inovação e excelência no atendimento.
 
 
-
 2. Mercado e Diferenciais
 Público-alvo: Jovens, profissionais, estudantes e apreciadores de café.
 
@@ -18,7 +17,6 @@ Cafés especiais e grãos selecionados.
 Ambiente aconchegante e instagramável.
 
 Opções de bebidas e alimentos artesanais.
-
 
 
 3. Produtos e Serviços
@@ -33,7 +31,6 @@ Opções saudáveis e veganas.
 Espaço para eventos e coworking.
 
 
-
 4. Estratégias de Marketing e Vendas
 Presença Digital: Redes sociais, site, Google Meu Negócio.
 
@@ -42,14 +39,12 @@ Promoções: Cartão fidelidade, descontos para clientes frequentes.
 Parcerias: Influenciadores, empresas locais, eventos culturais.
 
 
-
 5. Operações e Logística
 Fornecimento de grãos e ingredientes de alta qualidade.
 
 Treinamento da equipe para um atendimento diferenciado.
 
 Sustentabilidade: uso de embalagens ecológicas e reaproveitamento de resíduos.
-
 
 
 6. Metas e Indicadores de Sucesso
